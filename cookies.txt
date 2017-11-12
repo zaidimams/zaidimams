@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zaidimams.wixsite.com	TRUE	/home	FALSE	1999999999	svSession	b22e719b11cb6a914997212520b3db61f56d9393b009e3828f8b1c9c33c3a902b9b2459abf1d34693eda3401ec2f375f1e60994d53964e647acf431e4f798bcd4f3d24133958182b6055f758b8377bf1d563de55edc3d16e71c093ceccff4f4a
+zaidimams.wixsite.com	TRUE	/	FALSE	1999999999	hs	1338866982
+.wix.com	TRUE	/	FALSE	1999999999	_wixUIDX	null-user-id
+.wix.com	TRUE	/	FALSE	1999999999	_wix_browser_sess	b8ec8d4b-67e4-4f33-a73e-8f18200b2d76
+.wix.com	TRUE	/	FALSE	1999999999	userType	ANONYMOUS
+
